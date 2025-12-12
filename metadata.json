@@ -1,0 +1,9 @@
+{
+  "name": "MediGuide AI",
+  "description": "A multimodal medical pre-consultation assistant powered by Gemini. Triage symptoms, analyze skin conditions, and understand medication labels with professional AI guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
